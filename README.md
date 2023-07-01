@@ -1,6 +1,6 @@
 # cpp-go-node-comparision
 
-A dead simple application written in `go`, `node` and `c++` presented on [JsCraftcamp2023](https://twitter.com/hashtag/jscc23?src=hashtag_click) to show case how the technologies behave and performance on a given condition.
+A dead simple application written in `go`, `node` and `c++` presented on [JsCraftcamp2023](https://twitter.com/hashtag/jscc23?src=hashtag_click) to show case how the technologies behave and perform on a given condition.
 
 The application expects 2 parameters, a `number` and a `string`, with the first parameter the program iterates calculting the factorial 
 (then we can test recursion and call stack limits) of each number, saving it, firstly in memory and later to a file disc (second string param).
